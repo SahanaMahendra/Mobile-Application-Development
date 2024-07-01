@@ -32,7 +32,6 @@ class ProfileScreen extends StatelessWidget {
           Stack(
             alignment: Alignment.center,
             children: [
-              // Background Picture
               Container(
                 height: 150.0,
                 color: Colors.transparent,
@@ -41,7 +40,6 @@ class ProfileScreen extends StatelessWidget {
                   fit: BoxFit.fill,
                 ),
               ),
-              // Profile Picture
               Align(
                 alignment: Alignment.bottomLeft,
                 child: Padding(
