@@ -105,6 +105,7 @@ class ProfileScreen extends StatelessWidget {
   ),
 ),
           SizedBox(height: 16.0),
+          SizedBox(height: 16.0),
           buildSectionContainer(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
